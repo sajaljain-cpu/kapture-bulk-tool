@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "kapture-bulk-tool",
+      "runtimeExecutable": "python",
+      "runtimeArgs": ["kapture_bulk_tool.py"],
+      "port": 8765
+    }
+  ]
+}
